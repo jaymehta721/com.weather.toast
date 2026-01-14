@@ -1,0 +1,21 @@
+{
+  "name": "com.weather.toast",
+  "version": "1.0.0",
+  "displayName": "Weather Toast Notification",
+  "description": "A cross-platform toast notification system for Unity that displays native Android Toast and iOS Alert dialogs. Ideal for showing weather information and other quick messages.",
+  "unity": "2019.4",
+  "keywords": [
+    "toast",
+    "snackbar",
+    "notification",
+    "android",
+    "ios",
+    "weather",
+    "alert"
+  ],
+  "author": {
+    "name": "Weather App Team",
+    "email": "contact@weatherapp.com"
+  },
+  "dependencies": {}
+}
